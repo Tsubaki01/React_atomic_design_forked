@@ -1,2 +1,2 @@
-# React_atomic_design_forked
+# react_atomic_design
 Created with CodeSandbox
